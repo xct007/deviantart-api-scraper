@@ -8,7 +8,9 @@ GET ANGRY MOSTLY **FAMOUS** USER.</b></i>
 <br/>
 </br>
 **Sorry** I can't fill your request, and I can't **give** the source code to you.
-### Here some results for you
+### Here some result's
 ![Daily Deviations 1](./results/1.png)
 ![Daily Deviations 2](./results/2.png)
 ![Daily Deviations 3](./results/3.png)
+###
+If you have some advice, you can contact me on Instagram.
