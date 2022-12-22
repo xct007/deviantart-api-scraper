@@ -7,7 +7,7 @@ GET ANGRY MOSTLY **FAMOUS** USER.</b></i>
 ![Sorry 😞](./results/cry.png)
 <br/>
 </br>
-**Sorry** I can't fill your request, and I can't give the source code to you.
+**Sorry** I can't fill your request, and I can't **give** the source code to you.
 ### Here some results for you
 ![Daily Deviations 1](./results/1.png)
 ![Daily Deviations 2](./results/2.png)
