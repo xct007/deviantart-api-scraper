@@ -14,7 +14,7 @@ import {
 	DEVIATION,
 	SEARCH_USER,
 	USER_GALLERY,
-} from "./Config.js";
+} from "./Config";
 
 /**
  * Get deviations top topics
