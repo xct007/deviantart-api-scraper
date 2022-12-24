@@ -85,8 +85,8 @@ topTopics().then((json) => {
                         type: String,
                     },
                     stats: {
-                        comments: Number;
-                        favourites: Number;
+                        comments: Number,
+                        favourites: Number,
                     },
                     published_time: String,
                     allows_comments: Boolean,
@@ -105,7 +105,7 @@ topTopics().then((json) => {
                     },
                     thumbs: [
                         {
-                            src: String,,
+                            src: String,
                             height: Number,
                             width: Number,
                             transparency: Boolean,
@@ -118,7 +118,7 @@ topTopics().then((json) => {
                 }
             ]
         }
-        ....
+        ...
     ]
 }
 ```
@@ -193,10 +193,10 @@ dailyDeviations().then((json) => {
             },
             thumbs: [
                 {
-                    src: String;
-                    height: Number;
-                    width: Number;
-                    transparency: Boolean;
+                    src: String,
+                    height: Number,
+                    width: Number,
+                    transparency: Boolean,
                 },
                 ...
             ],
@@ -375,8 +375,8 @@ userGallery(username).then((json) => {
             type: String,
         },
         stats: {
-            comments: Number;
-            favourites: Number;
+            comments: Number,
+            favourites: Number,
         },
         published_time: String,
         allows_comments: Boolean,
@@ -405,7 +405,8 @@ userGallery(username).then((json) => {
         is_mature: Boolean,
         is_downloadable: Boolean,
         download_filesize: Number
-    }
+    },
+    ...
 ],
 ```
 
